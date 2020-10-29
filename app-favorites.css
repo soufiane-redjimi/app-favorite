@@ -1,0 +1,199 @@
+h1{
+    font-family:monospace;
+    color:#833ab4;
+    text-align: center;
+
+}
+h2{
+    font-family: monospace;
+    color:#fd5949 ;
+    text-align:center;
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+}
+h3{
+    color:#FFDC80;
+    font-family:monospace;
+    text-align:center;
+    font-size:2.5vw;
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+}
+h4{
+    color:#E1306C;
+    font-family: monospace;
+    text-align:center;
+    font-size:1.25vw;
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+}
+h5{color: black;
+    font-family: monospace;
+    text-align:center;
+    font-size:1.25vw;
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+    background-color: #FFFC00;
+}
+.Presnap{
+    color: black;
+    font-family: monospace;
+    text-align:center;
+    font-size:1.25vw;
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+    background-color: #FFFC00;
+}
+.Users{
+    color: black;
+    font-family: monospace;
+    text-align:center;
+    font-size:1.55vw;
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+    background-color: #FFFC00;
+}
+.Pourquoi{
+    Color: Black;
+    font-family: monospace;
+    text-align:center;
+    font-size:1.55vw;
+    box-shadow:12px 12px 2px 1px rgba(0, 0, 255, .2);
+    background-color: #FFFC00;
+}
+p{
+    font-family:Georgia, Times, 'Times New Roman', serif;
+    text-align:center;
+}
+.headerFB{
+    background-color:#4e71ba;
+    color:white;
+    box-shadow:12px 12px 2px 1px rgba(0, 0, 255, .2);
+    font-family: monospace;
+    text-align:center;
+    font-size:1.55vw;
+
+}
+.PourquoiFB{
+    background-color:#4e71ba;
+    color:white;
+    box-shadow:12px 12px 2px 1px rgba(0, 0, 255, .2);
+    font-family: monospace;
+    text-align:center;
+    font-size:1.55vw;
+}
+.bodyFB{
+    background-color:#4e71ba;
+    color:white;
+    box-shadow:12px 12px 2px 1px rgba(0, 0, 255, .2);
+    font-family: monospace;
+    text-align:center;
+    font-size:1.55vw;
+}
+.FooterFB{
+    background-color:#4e71ba;
+    color:white;
+    box-shadow:12px 12px 2px 1px rgba(0, 0, 255, .2);
+    font-family: monospace;
+    text-align:center;
+    font-size:1.55vw;
+}
+.headerinsta{
+    background-color:green;
+}
+.footerinsta{
+    background-color:green;
+}
+.bodyinsta{
+    background-color:green;
+}
+.left{
+    width: 300px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border: 3px solid #b7bec9;
+    text-align: center;
+    background:white;  
+    border-radius: 10px;
+    border-color:#833ab4;
+    float:left;
+    justify-content: space-around;
+    
+}
+.leftt{
+    width: 300px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border: 3px solid #b7bec9;
+    text-align: center;
+    background:white;
+    border-radius: 10px;
+    border-color:#833ab4;
+    float:left;
+    justify-content: space-around; 
+}
+.center{
+    width: 300px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border: 3px solid #b7bec9;
+    text-align: center;
+    background:white;
+    border-radius: 10px;
+    border-color:#ffff00;
+    float:center;
+    justify-content: space-around;
+}
+
+.centerr{
+    width: 300px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border: 3px solid #b7bec9;
+    text-align: center;
+    background:white;
+    border-radius: 10px;
+    border-color:#ffff00;
+    float:center;
+    justify-content: space-around;
+}
+
+.right{
+    width: 300px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border: 3px solid #b7bec9;
+    text-align: center;
+    background:white;
+    border-radius: 10px;
+    border-color:#3b5998;
+    float:right;
+    justify-content: space-around;
+}
+.rightt{
+    width: 300px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border: 3px solid #b7bec9;
+    text-align: center;
+    background:white;
+    border-radius: 10px;
+    border-color:#3b5998;
+    float:right;
+    justify-content: space-around;
+}
+img{
+height:12vw;
+width:12vw;
+float:center;
+}
+section{
+    width:100%;
+    height:450px;
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+}
+.parent{
+    justify-content: space-around;
+    display:flex;
+}
+hr{
+    width:100%;
+}
+
